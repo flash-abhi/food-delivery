@@ -6,6 +6,9 @@
   box-sizing: border-box;
   font-family: Outfit;
 }
+ul{
+  list-style-type: none;
+}
 body{
   min-height: 100vh;
 }
